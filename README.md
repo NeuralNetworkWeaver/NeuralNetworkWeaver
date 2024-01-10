@@ -11,29 +11,30 @@
   <img src="https://komarev.com/ghpvc/?username=beefulco&style=flat&color=red"/>
 </div>
 <div align="center">
-  <h2>
-    Hi there!<img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="30"/> <br>
+  <h1>
+    Hi there! <br>
     I'm Giuseppe Gerardo Bifulco, your friendly neighborhood Machine Learning Engineer! 🕷️
-  </h2>
+  </h1>
   
 </div>
  
 <div align="center">
   <h5>
-  Welcome to my GitHub space, where innovation and continuous learning collide. I'm passionate about artificial intelligence and machine learning with a focus on computer vision. Here I share my journey, projects, and contributions.</h5>
+  Welcome to my GitHub space, where innovation and continuous learning collide. I'm passionate about artificial intelligence and machine learning, with a focus on computer vision. Here I share my journey, projects, and contributions.</h5>
 </div>
 
 
-### :hammer_and_wrench: Skills
+# :hammer_and_wrench: Skills
 
-**Languages:** 
+🧑🏻‍💻**Languages:** 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
 </div>
 
-**Libraries & Tools:**
+
+🧰**Libraries & Tools:**
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="50" height="50"/>&nbsp;
@@ -44,21 +45,40 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="50" height="50"/>&nbsp;
 </div>
 
-## 🚀 Key Projects
+<br>
+
+# 🚀 Key Projects
 
 WIP
 
-## ✍️ Articles and Publications
+<br>
+
+# ✍️ Articles and Publications
 
 WIP
 
-## 📬 Get in Touch
+<br>
 
-- LinkedIn: [Giuseppe Gerardo Bifulco](https://www.linkedin.com/in/ggbif/)
-- Email: [giuseppebif3@outlook.it](mailto:giuseppebif3@outlook.it)
+# 📬 Get in Touch
+**Email:**
+[giuseppebif3@outlook.it](mailto:giuseppebif3@outlook.it)
 
-## 🌐 More Links
+<br>
+
+# 🌐 More Links
 
 WIP
 
-Thanks for exploring my digital corner! If you have questions, ideas, or interesting projects, I'm all ears. Can't wait to connect! 😊
+<br>
+
+# 🔥 My Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NeuralWebCrawler&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<br>
+
+<div align="center">
+  <h5>
+    Thanks for exploring my digital corner! If you have questions, ideas, or interesting projects, I'm all ears. Can't wait to connect! 😊
+  </h5>
+</div>
+
