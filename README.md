@@ -12,7 +12,7 @@
 </div>
 <div align="center">
   <h1>
-    Hi there! <br>
+    Hi there!👋🏻<br>
     I'm Giuseppe Gerardo Bifulco, your friendly neighborhood Machine Learning Engineer! 🕷️
   </h1>
   
@@ -53,7 +53,7 @@ WIP
 
 <br>
 
-# ✍️ Articles and Publications
+# ✍🏻 Articles and Publications
 
 WIP
 
