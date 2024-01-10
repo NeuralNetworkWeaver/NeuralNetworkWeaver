@@ -7,24 +7,26 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
 <div id="visit_counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=beefulco&style=flat&color=red"/>
 </div>
+
 <div align="center">
   <h1>
     Hi there!👋🏻<br>
     I'm Giuseppe Gerardo Bifulco, your friendly neighborhood Machine Learning Engineer! 🕷️
   </h1>
-  
 </div>
  
 <div align="center">
   <h5>
-  Welcome to my GitHub space, where innovation and continuous learning collide. I'm passionate about artificial intelligence and machine learning, with a focus on computer vision. Here I share my journey, projects, and contributions.</h5>
+  Welcome to my GitHub space, where innovation and continuous learning collide. I'm passionate about artificial intelligence and machine learning, with a focus on computer vision. Here I share my journey,   projects, and contributions.
+  </h5>
 </div>
 
 
-# :hammer_and_wrench: Skills
+# 🛠️ Skills
 
 🧑🏻‍💻**Languages:** 
 <div>
