@@ -73,10 +73,6 @@ WIP
 
 <br>
 
-# 🔥 My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NeuralWebCrawler&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<br>
 
 <div align="center">
   <h5>
