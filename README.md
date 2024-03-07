@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.ibb.co/myzhnJh/aa27619b-cc63-4afd-8503-29800cade7e2.jpg" width="200"/>
+  <img src="https://i.ibb.co/whqgSjw/download-1-1-modified.png" width="200"/>
 </div>
 
 <div id="badges" align="center">
@@ -15,7 +15,7 @@
 <div align="center">
   <h1>
     Hi there!👋🏻<br>
-    I'm Giuseppe Gerardo Bifulco, your friendly neighborhood Machine Learning Engineer! 🕷️
+    I'm Giuseppe Gerardo Bifulco, Machine Learning Engineer.
   </h1>
 </div>
  
